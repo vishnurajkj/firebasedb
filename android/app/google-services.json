@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925894894317",
+    "project_id": "realdb-7a7e4",
+    "storage_bucket": "realdb-7a7e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925894894317:android:ac5bf2d383896c0585e2e4",
+        "android_client_info": {
+          "package_name": "com.example.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925894894317-1vqdeq90orobv5niq8hmuguhmkrntdav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSJJtKFFOeSzQruWukroZ8ZDUShzX50w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925894894317-1vqdeq90orobv5niq8hmuguhmkrntdav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
